@@ -3,7 +3,7 @@
 ## Dataset Used:
 https://www.kaggle.com/valentynsichkar/traffic-signs-dataset-in-yolo-format
 
-# YOLOv5:
+# YOLOv3:
 https://pjreddie.com/darknet/yolo/
 
 ## Ref:
